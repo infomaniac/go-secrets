@@ -1,4 +1,4 @@
-module secrets
+module github.com/infomaniac/go-secrets
 
 go 1.19
 
